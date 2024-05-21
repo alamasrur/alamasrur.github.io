@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sen Lin's Homepage"
+title                    : "Masrur's Homepage"
 title_separator          : "-"
 name                     : &name "Sen Lin"
 description              : &description "personal description"
-url                      : https://slin70.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alamasrur.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sen Lin"
+  name             : "Md Masrur Ul Alam"
   avatar           : "profile.png"
-  bio              : "Assistant Professor@UH"
-  location         : "Houston, TX"
+  bio              : "Bekar@Bhoboghure"
+  location         : "Rajshahi, Bangladesh"
   employer         :
-  googlescholar    : https://scholar.google.com/citations?user=94-TbUsAAAAJ&hl=en"
-  email            : slin50@central.uh.edu
+  googlescholar    : #https://scholar.google.com/citations?user=94-TbUsAAAAJ&hl=en"
+  email            : masruralam003@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "slin70"
+  github           : "masrurprem"
   google_plus      :
   keybase          :
   instagram        :
